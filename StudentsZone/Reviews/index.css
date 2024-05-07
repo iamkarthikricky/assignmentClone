@@ -1,0 +1,15 @@
+.border-dashed{
+    border-bottom:dashed;
+    margin-bottom: 30px;
+    border-width: 2px;
+}
+.reviews-text{
+    font-size: 14px;
+    line-height: 28px;
+    text-align: justify;
+}
+@media screen and (min-width:1023px) {
+    .reviews-text{
+        font-size: 16px;
+    }
+}
